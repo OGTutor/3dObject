@@ -1,0 +1,11 @@
+Model Information:
+* title:	Traditional chinese lamp workshop
+* source:	https://sketchfab.com/3d-models/traditional-chinese-lamp-workshop-7ca57d6971de4594963a9906e4fc7e66
+* author:	Eric Schmitz (https://sketchfab.com/ericschmitz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Traditional chinese lamp workshop" (https://sketchfab.com/3d-models/traditional-chinese-lamp-workshop-7ca57d6971de4594963a9906e4fc7e66) by Eric Schmitz (https://sketchfab.com/ericschmitz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

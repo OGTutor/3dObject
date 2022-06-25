@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>3D Model</title>
+		<link rel="stylesheet" href="./style.css" />
+		<script type="importmap">
+			{
+				"imports": {
+					"three": "./build/three.module.js",
+					"three/examples/loaders/GLTFLoader": "./jsm/loaders/GLTFLoader.js",
+					"three/examples/controls/OrbitControls": "./jsm/controls/OrbitControls.js",
+					"three/examples/jsm/libs/lil-gui.module.min": "./jsm/libs/lil-gui.module.min.js"
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<div class="flex-container">
+			<div class="main-content">
+				<h1>Some <span class="dream">text</span></h1>
+				<p></p>
+				<a href="#">Button</a>
+			</div>
+			<div class="canvas-element">
+				<canvas class="web-gl"></canvas>
+			</div>
+		</div>
+		<script type="module" src="./client.js"></script>
+	</body>
+</html>
